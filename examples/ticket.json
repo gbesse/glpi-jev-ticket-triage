@@ -1,0 +1,1 @@
+{"event":"ticket.created","ticket":{"id":42,"title":"Checkout unavailable","description":"Customers see errors when paying; all payment attempts failed."}}
